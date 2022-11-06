@@ -1,14 +1,18 @@
 WEB DEV
 
 
+
 ---
+
 
 
 WebDev/Body analogy:
 - https://miro.medium.com/max/564/1*KRq7jQOUdQsHNsZa72XcDw.jpeg
 
 
+
 ---
+
 
 
 What is HTML?
@@ -21,6 +25,7 @@ Created in 1989 by Tim Berners-Lee (CERN) (http, html, url).
 - HTML consists of a series of elements
 - HTML elements tell the browser how to display the content
 - HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+
 
 Website example using HTML:
 - http://info.cern.ch/
@@ -42,7 +47,9 @@ HTML HISTORY:
 - https://youtu.be/41mnNyMxPOA
 
 
+
 ---
+
 
 
 What is CSS?
@@ -53,6 +60,7 @@ Created in 1994 by Håkon Wium Lie (CERN).
 - CSS describes how HTML elements are to be displayed on screen, paper, or in other media
 - CSS saves a lot of work. It can control the layout of multiple web pages all at once
 - External stylesheets are stored in CSS files
+
 
 Website example using HTML and CSS:
 - https://www.haribo.com/de-de
@@ -71,7 +79,9 @@ CSS HISTORY:
 - https://youtu.be/LeC26IO1WV8
 
 
+
 ---
+
 
 
 What is JavaScript?
@@ -81,6 +91,7 @@ Created in 1995 by Brendan Eich (NETSCAPE).
 - JavaScript is the Programming Language for the Web.
 - JavaScript can update and change both HTML and CSS.
 - JavaScript can calculate, manipulate and validate data.
+
 
 Website example using HTML, CSS and JavaScript:
 - https://www.amazon.de/
