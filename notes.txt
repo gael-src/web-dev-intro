@@ -36,7 +36,7 @@ DOCUMENTATION - MDN Web Docs (Mozilla Developer Network):
 - https://developer.mozilla.org/en-US/docs/Web/HTML
 
 
-HISTORY:
+HTML HISTORY:
 - https://www.w3.org/People/Raggett/book4/ch02.html
 - https://www.bu.edu/lernet/artemis/years/2020/projects/FinalPresentations/HTML/historyofhtml.html
 - https://youtu.be/41mnNyMxPOA
@@ -65,7 +65,7 @@ DOCUMENTATION - MDN Web Docs (Mozilla Developer Network):
 - https://developer.mozilla.org/en-US/docs/Web/CSS
 
 
-HISTORY:
+CSS HISTORY:
 - https://www.w3.org/Style/CSS20/history.html
 - https://www.bu.edu/lernet/artemis/years/2020/projects/FinalPresentations/HTML/historyofcss.html
 - https://youtu.be/LeC26IO1WV8
@@ -93,7 +93,7 @@ DOCUMENTATION - MDN Web Docs (Mozilla Developer Network):
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 
-HISTORY:
+JS HISTORY:
 - https://www.w3schools.com/js/js_history.asp
 - https://www.bu.edu/lernet/artemis/years/2020/projects/FinalPresentations/HTML/addingjava.html
 - https://youtu.be/3-9fnjzmXWA
